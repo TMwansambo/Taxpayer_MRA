@@ -1,6 +1,6 @@
 # Taxpayer_MRA
 HOW TO Run
-Install php7.0 
+Install php7.0 (if you use a high version of php Laravel will require the Mcrypt PHP extension)
 Install composer, then run the command below after composer successfully gets installed
 	-	Composer update self, this installs all the dependencies
 Clone the application from git, using the link below
